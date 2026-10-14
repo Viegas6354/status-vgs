@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["SSP - Centro Paulista","SSP - Centro Paulista"];
+const statusMessages = ["VGS Services Store","VGS Services Store"];
 
 
 let currentIndex = 0;
